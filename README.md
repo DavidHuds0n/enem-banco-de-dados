@@ -83,6 +83,7 @@ python scripts/03_consultas.py
 ```
 
 ## 📁 Estrutura do Repositório
+```
 enem-banco-de-dados/
 ├── data/           # Dataset (não incluído — ver fonte acima)
 ├── scripts/        # Scripts Python
@@ -93,6 +94,7 @@ enem-banco-de-dados/
 │   └── consultas.sql
 ├── requirements.txt
 └── README.md
+```
 
 ---
 Desenvolvido por [David Hudson](https://github.com/DavidHuds0n)
