@@ -9,7 +9,7 @@ Migrar os dados do ENEM 2023 (127.574 registros) de um arquivo CSV para um banco
 ## 📂 Fonte de Dados
 
 Dataset **Student Performance — ENEM 2023** disponível no Kaggle:  
-[kaggle.com/datasets/jpamcb/student-performance](https://www.kaggle.com/datasets/jpamcb/student-performance/data)
+[Kaggle - Student Performance (ENEM 2023)](https://www.kaggle.com/datasets/jpamcb/student-performance/data)
 
 ## 🗃️ Estrutura do Banco
 
